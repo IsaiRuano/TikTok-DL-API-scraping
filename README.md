@@ -19,7 +19,7 @@ npm install
 
 ## 🚀 Getting Started
 
-1. git clone 
+1. git clone https://github.com/IsaiRuano/TikTok-DL-API-scraping.git
 2. Install dependencies.
 3. Run the server:
 
